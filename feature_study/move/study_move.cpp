@@ -1,7 +1,7 @@
 /**
  * @file study_move.cpp
  * @author DoBetter (db.xi@zju.edu.cn)
- * @brief move
+ * @brief 原value值被moved from之后值被转移,所以为空字符串. 
  * @version 0.1
  * @date 2020-12-24
  * 
@@ -26,3 +26,9 @@ int main()
     <<"\",\""<<v[1]<<"\"\n";
     return 0;
 }
+/*
+输出：
+After copy,str is "Hello"
+Afrer move,str is ""
+The contents of the vector are "Hello","Hello"
+*/
