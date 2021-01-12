@@ -1,0 +1,2 @@
+bookNo:0-201-78345-X units_sold:10 revenue:250 averagePrice:25
+bookNo:0-201-78345-X units_sold:15 revenue:400 averagePrice:26.6667
