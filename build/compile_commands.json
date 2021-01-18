@@ -1,0 +1,17 @@
+[
+{
+  "directory": "E:/C++Program/C-Primer-Study/build",
+  "command": "D:\\PROGRA~3\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\main.dir\\A.cpp.obj -c E:\\C++Program\\C-Primer-Study\\feature_study\\mul_refer\\A.cpp",
+  "file": "E:/C++Program/C-Primer-Study/feature_study/mul_refer/A.cpp"
+},
+{
+  "directory": "E:/C++Program/C-Primer-Study/build",
+  "command": "D:\\PROGRA~3\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\main.dir\\B.cpp.obj -c E:\\C++Program\\C-Primer-Study\\feature_study\\mul_refer\\B.cpp",
+  "file": "E:/C++Program/C-Primer-Study/feature_study/mul_refer/B.cpp"
+},
+{
+  "directory": "E:/C++Program/C-Primer-Study/build",
+  "command": "D:\\PROGRA~3\\mingw64\\bin\\G__~1.EXE   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\C++Program\\C-Primer-Study\\feature_study\\mul_refer\\main.cpp",
+  "file": "E:/C++Program/C-Primer-Study/feature_study/mul_refer/main.cpp"
+}
+]
